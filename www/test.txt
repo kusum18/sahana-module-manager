@@ -1,0 +1,3 @@
+<?php
+$conf['mod_mm_name'] = _t('Module Manager');
+$conf['shn_mm_enabled'] = TRUE;
